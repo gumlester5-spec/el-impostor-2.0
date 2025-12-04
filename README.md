@@ -100,8 +100,8 @@ Abre tu navegador en `http://localhost:3000` (o el puerto que indique la consola
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto es libre 
 
 ---
 
-Hecho con ❤️ e 🤖 por [Lester]
+Hecho con ❤️ e 🤖 por Lester
