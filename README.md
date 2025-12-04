@@ -104,4 +104,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ---
 
-Hecho con ❤️ e 🤖 por [Tu Nombre]
+Hecho con ❤️ e 🤖 por [Lester]
