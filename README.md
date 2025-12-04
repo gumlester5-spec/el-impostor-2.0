@@ -55,7 +55,7 @@ Sigue estos pasos para correr el proyecto en tu computadora:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/impostor-secreto.git
+git clone https://github.com/gumlester5-spec/el-impostor-2.0.git
 cd impostor-secreto
 ```
 
