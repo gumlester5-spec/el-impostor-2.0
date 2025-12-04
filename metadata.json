@@ -1,0 +1,5 @@
+{
+  "name": "Impostor Secreto",
+  "description": "Un juego de deducción social donde debes descubrir quién miente. 3 jugadores, 1 palabra secreta, 1 impostor.",
+  "requestFramePermissions": []
+}
